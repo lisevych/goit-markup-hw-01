@@ -1,6 +1,6 @@
 # goit-markup-hw-01
 
-# H1 НЕМЕЦКАЯ ОВЧАРКА(German Shepherd)-ВЕРНЫЙ ДРУГ ЧЕЛОВЕКА
+# НЕМЕЦКАЯ ОВЧАРКА(German Shepherd)-ВЕРНЫЙ ДРУГ ЧЕЛОВЕКА
 
 
 ![НЕМЕЦКАЯ ОВЧАРКА](https://www.royal-canin.ru/upload/iblock/728/ekst.jpg "German Shepherd")
